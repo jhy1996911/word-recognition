@@ -1,0 +1,10 @@
+﻿  OCRProjectDlg.cpp
+c:\somesoftware\opencv3.2_ex\release_x64\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\somesoftware\opencv3.2_ex\release_x64\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\somesoftware\opencv3.2_ex\release_x64\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\somesoftware\opencv3.2_ex\release_x64\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\somesoftware\opencv3.2_ex\release_x64\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\jianghongyi\documents\visual studio 2015\projects\ocrproject\ocrproject\ocrprojectdlg.cpp(136): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jianghongyi\documents\visual studio 2015\projects\ocrproject\ocrproject\ocrprojectdlg.cpp(142): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  OCRProject.vcxproj -> C:\Users\jianghongyi\Documents\Visual Studio 2015\Projects\OCRProject\x64\Debug\OCRProject.exe
+  OCRProject.vcxproj -> C:\Users\jianghongyi\Documents\Visual Studio 2015\Projects\OCRProject\x64\Debug\OCRProject.pdb (Partial PDB)
